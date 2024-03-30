@@ -70,7 +70,7 @@ __Tonga Nuku’alofa Mission__ - Missionary Trainer; Kameli, Vava’u
 -	Facilitated adaptation of a trainee to a foreign culture by leading daily language instruction and guiding social interactions
 -	Organized hundreds of lessons and handled group finances in a foreign country, while achieving leadership-set goals
 
-## HONORS												
+## Honors											
 
 `Aug 2021 - Present`
 BYU-I Full Academic Scholarship
@@ -78,7 +78,7 @@ BYU-I Full Academic Scholarship
 `July 2016`
 Eagle Scout - BSA
 
-## ADDITIONAL INFORMATION								
+## Additional Information								
 
 -Computer Skills: R, Python, Mark Down, SQL MS Word, Excel, PowerPoint
 -Certifications: CPR, Idaho Youth Suicide Prevention Program
