@@ -1,9 +1,10 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Michael Merrill's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Michael Merrill
+mer21006@byui.edu | www.linkedin.com/in/michael-merrill-676mmt | (618) 795-2503 
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,14 +16,9 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2021-2025`
 __Brigham Young University - Idaho__, Rexburg, ID
-
+- Bachelor of Science in Economics
 - 4.0 Major GPA
 
 
@@ -72,17 +68,21 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+__Salt Lake City West Mission__ Polynesian District Leader; West Valley City, Utah			      | Jun 2020 – Jun 2021 |
+•	Arranged and guided weekly team meetings, incorporating strategies to help people set and reach personal goals
+•	Sustained visibility engagement during the COVID-19 pandemic by spearheading active social media presence and implementing innovative outreach strategies, maintaining connection with individuals and families in the community
+
+__Tonga Nuku’alofa Mission__ Missionary Trainer; Kameli, Vava’u		                             | Jul 2019 – May 2020 |
+•	Obtained fluency in written and spoken Tongan in 5 months
+•	Facilitated adaptation of a trainee to a foreign culture by leading daily language instruction and guiding social interactions
+•	Organized hundreds of lessons and handled group finances in a foreign country, while achieving leadership-set goals
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Mar 2024 -->
 
 
